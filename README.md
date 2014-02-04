@@ -46,6 +46,7 @@ UI :
 * thickness : gauge thickness.
 * lineCap : gauge stroke endings. | default=butt, round=rounded line endings
 * width : dial width.
+* height : canvas height.
 * displayInput : default=true | false=hide input.
 * displayPrevious : default=false | true=displays the previous value with transparency.
 * fgColor : foreground color.
